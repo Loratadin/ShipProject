@@ -108,7 +108,7 @@ li {
     transition: .3s;
 }
 .about-us:hover {
-    color: white;
+    color: #fff;
     background: #4994bf;
 }
 .video {
